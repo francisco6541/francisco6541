@@ -1,1 +1,1 @@
-<img src="https://cdn-images-1.medium.com/max/2000/0*3iJLQaoQI66YJuQk.jpg" alt="See the source image" class=" nofocus" tabindex="0" aria-label="See the source image">
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://venturebeat.com/wp-content/uploads/2019/05/github-azure.png?fit=578%2C289&amp;strip=all" width="554" height="277">
