@@ -1,1 +1,1 @@
-<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://venturebeat.com/wp-content/uploads/2019/05/github-azure.png?fit=578%2C289&amp;strip=all" width="554" height="277">
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://venturebeat.com/wp-content/uploads/2019/05/github-azure.png?fit=578%2C289&amp;strip=all" width="1000" height="500">
